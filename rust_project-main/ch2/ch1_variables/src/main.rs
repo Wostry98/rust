@@ -22,4 +22,5 @@ fn main() {
     x = "that";
     println!("Mut x: {x}");
     // 可以重定义类型 可变性
+    print!("here");
 }
